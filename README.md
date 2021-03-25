@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, GraphQL, and Flutter to build my own app for my school community
+
+- 🚀 I'm working on an personal project to build a creative solution for car head units
+- 🔨 I am familiar with Java, Python, Dart, Swift, and JavaScript as my programming languages
+- ✔️ I have skills on frameworks such as Flutter, SpringBoot, TensorFlow, and Node.js
+
+
+
 <!--
 **EthanGeekFan/EthanGeekFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🌱 I’m currently learning JavaScript, GraphQL, and Flutter to build my own app for my school community
 
 Here are some ideas to get you started:
 

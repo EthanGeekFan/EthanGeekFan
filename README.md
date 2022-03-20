@@ -1,9 +1,13 @@
+![Yifan Yang](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanGeekFan&theme=nord_bright)
+
+
 ### Hi there 👋
 
 
-- 🚀 I'm working on an personal project to build a creative solution for car head units
-- 🔨 I am familiar with Java, Python, Dart, Swift, and JavaScript as my programming languages
-- ✔️ I have skills on frameworks such as Flutter, SpringBoot, TensorFlow, and Node.js
+- 🚀 I'm studying in Stanford University
+- 🔨 I am familiar with C/C++, Assembly, Java, Python, Dart, Swift, and JavaScript as my programming languages
+- ✔️ I have skills on frameworks such as Flutter, SpringBoot, TensorFlow, Node.js, and bare metal programming
+
 
 
 
